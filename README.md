@@ -17,8 +17,8 @@ End the program
 ### PROGRAM:
 
 ```
-Name : Rakshitha J
-Register Number :212223201135
+Name : SAJITH AHAMED F
+Register Number :212223240144
 
 import pandas as pd
 import numpy as np
